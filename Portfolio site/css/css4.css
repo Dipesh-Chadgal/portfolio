@@ -1,0 +1,32 @@
+#name-new{
+    font-family: 'poppins';
+    font-size: 35px;
+    font-weight: bolder;
+    
+}
+#name-new-1{
+    font-family: 'poppins';
+    font-size: 35px;
+    font-weight: bolder;
+    
+}
+.btn-outline-info:hover{
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+.btn-outline-info{
+    background-color:#0050FF;
+    color: white;
+    font-size: 20px;
+    border-color: #0050FF;
+}
+.btn-outline-info:focus{
+   box-shadow: none;
+}
+.card-box{
+    height: 300px;
+}
+html,body{
+    scroll-behavior: smooth;
+}
